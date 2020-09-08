@@ -37,7 +37,7 @@ class CarouselProjects2 extends React.Component {
         },
         {
           id: 2,
-          title: "Covid Comaprison",
+          title: "Covid Comparison",
           subTitle: "Comparing Covid Cases By District",
           imgSrc: covid,
           link: "https://github.com/hyperkarmic/project3",
