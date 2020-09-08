@@ -37,6 +37,13 @@ function AboutPage(props) {
           environment in the near future. I am presently engaging in the job
           search to allow me to do this as soon as possible!
         </p>
+        <p>
+          My{" "}
+          <a href="https://docs.google.com/document/d/1cwLg6QSnAdyWBL6xD1JkrPwEk77v7cA9eA_vtb9xyEk/edit">
+            resume
+          </a>{" "}
+          is available for anyone who wants to know more!
+        </p>
       </Content>
     </div>
   );
